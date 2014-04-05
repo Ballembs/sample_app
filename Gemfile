@@ -8,7 +8,7 @@ gem 'rails', '4.0.2'
  # gem 'sqlite3'
 #end
 
-gem "mysql"
+gem "pg"
 #gem 'sqlite3-ruby', '1.2.5' , :require => 'sqlite3'
 
 # Use SCSS for stylesheets
